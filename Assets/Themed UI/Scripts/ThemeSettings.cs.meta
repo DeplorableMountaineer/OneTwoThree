@@ -1,0 +1,38 @@
+fileFormatVersion: 2
+guid: 16015c48c765dd74b95cfd6ec8081e0a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - defaultFontMaterial: {fileID: 2100000, guid: 543104febc09d1a4a91310a2d57b858e,
+      type: 2}
+  - fontMaterialAlt1OrGreen: {fileID: 2100000, guid: 8b29aaa3eec7468097ff07adfcf29ac9,
+      type: 2}
+  - fontMaterialAlt2OrBlue: {fileID: 2100000, guid: 9eed96e0cabfa1c4b9ba8f9e02d3fac8,
+      type: 2}
+  - fontMaterialAlt3OrHighlighted: {fileID: 2100000, guid: 1cbab13b3a008004c876e7c4b16801cd,
+      type: 2}
+  - fontMaterialAlt4OrCaution: {fileID: 2100000, guid: 906e774803abbdf469cb515271373fc1,
+      type: 2}
+  - fontMaterialAlt5OrDanger: {fileID: 2100000, guid: aa465f62e2ce7e44db4d1145f66819ad,
+      type: 2}
+  - fontMaterialAlt6OrExtremeDanger: {fileID: 2100000, guid: 022aa41c3c222914588e5f5821f521ea,
+      type: 2}
+  - tiledBackgroundImage: {fileID: 21300000, guid: 9320337941ec1cb4ea60575c385bacb6,
+      type: 3}
+  - buttonImage: {fileID: 21300000, guid: 3d44c181ce574854f9cc135d769af055, type: 3}
+  - sliderBackgroundImage: {fileID: 21300000, guid: 4280cebee94c6a740b44a1fdb925f2f9,
+      type: 3}
+  - sliderHandleImage: {fileID: 21300000, guid: b5a25d48b3978e34db1bdddce3d4a3f5,
+      type: 3}
+  - panelImage: {fileID: 21300000, guid: b199e37a4907cc64bbe1f85372f8fee4, type: 3}
+  - toggleBackgroundImage: {fileID: 21300000, guid: 3ceefea3e2630914c957d0c9d0892fab,
+      type: 3}
+  - toggleCheckImage: {fileID: 21300000, guid: 823bae386d7bdb949980ae268dcc79aa, type: 3}
+  - dropdownImage: {fileID: 21300000, guid: e3f6790f11f99fb4989d3fd1f6454cfc, type: 3}
+  - inputFieldImage: {fileID: 21300000, guid: 5c3c07f8e507cd14d97dda5518d27eba, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 16015c48c765dd74b95cfd6ec8081e0a, type: 3}
+  m_Name: Plastic Theme
+  m_EditorClassIdentifier: 
+  defaultFontMaterial: {fileID: 2100000, guid: 27bc4ec28e9e0e74ba80f3ba6d260d9d, type: 2}
+  fontMaterialAlt1OrGreen: {fileID: 2100000, guid: 8b29aaa3eec7468097ff07adfcf29ac9,
+    type: 2}
+  fontMaterialAlt2OrBlue: {fileID: 2100000, guid: e73a58f6e2794ae7b1b7e50b7fb811b0,
+    type: 2}
+  fontMaterialAlt3OrHighlighted: {fileID: 2100000, guid: 79459efec17a4d00a321bdcc27bbc385,
+    type: 2}
+  fontMaterialAlt4OrCaution: {fileID: 2100000, guid: 9ad269c99dcf42b7aedefd83dd5a7b9d,
+    type: 2}
+  fontMaterialAlt5OrDanger: {fileID: 2100000, guid: 42df1c7856584b6b8db9a509b6b10074,
+    type: 2}
+  fontMaterialAlt6OrExtremeDanger: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee,
+    type: 2}
+  white: {r: 0.984, g: 0.969, b: 0.965, a: 1}
+  blue: {r: 0.537, g: 0.91, b: 0.882, a: 1}
+  green: {r: 0.349, g: 0.965, b: 0, a: 1}
+  gray: {r: 0.608, g: 0.522, b: 0.49, a: 1}
+  highlightedColor: {r: 1, g: 0.6893543, b: 0.33999997, a: 1}
+  cautionColor: {r: 1, g: 0.91, b: 0, a: 1}
+  dangerColor: {r: 1, g: 0.157, b: 0, a: 1}
+  extremeDangerColor: {r: 0.576, g: 0.157, b: 0.953, a: 1}
+  useFontMaterial: 0
+  tiledBackgroundImage: {fileID: 21300000, guid: 966c2977b8aefb248b33191c00b95cc4,
+    type: 3}
+  buttonImage: {fileID: 21300000, guid: 6da2da828d3c9aa479feb5491ec5190d, type: 3}
+  sliderBackgroundImage: {fileID: 21300000, guid: bee47ff940054ef4ab2e1178c202459e,
+    type: 3}
+  sliderHandleImage: {fileID: 21300000, guid: a78bbce0c53d3b94baad4a60af5343cd, type: 3}
+  panelImage: {fileID: 21300000, guid: c4feb9cc926485049ba6a9f0c195bbd7, type: 3}
+  toggleBackgroundImage: {fileID: 21300000, guid: 6361aec42e355be4890b2964e8861311,
+    type: 3}
+  toggleCheckImage: {fileID: 21300000, guid: 6223e0ed9a66d7347ac709b0d451e493, type: 3}
+  dropdownImage: {fileID: 21300000, guid: 0d852dc79af6e9642ae2b214933a03ce, type: 3}
+  inputFieldImage: {fileID: 21300000, guid: ba73cb585530eba4eb34ff35ef6aa9c2, type: 3}
+  uiColors:
+    m_NormalColor: {r: 0.984, g: 0.969, b: 0.965, a: 1}
+    m_HighlightedColor: {r: 0.75, g: 0.49897957, b: 0.18673468, a: 1}
+    m_PressedColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 1}
+    m_SelectedColor: {r: 0.18823528, g: 0.66176474, b: 0.75, a: 1}
+    m_DisabledColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 0.5019608}
+    m_ColorMultiplier: 1
+    m_FadeDuration: 0.1
+  menuItemColors:
+    m_NormalColor: {r: 1, g: 1, b: 1, a: 0}
+    m_HighlightedColor: {r: 0.9607843, g: 0.9101734, b: 0.84741175, a: 0.2509804}
+    m_PressedColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 1}
+    m_SelectedColor: {r: 0.5, g: 0.92156863, b: 1, a: 0.2509804}
+    m_DisabledColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 0.5019608}
+    m_ColorMultiplier: 1
+    m_FadeDuration: 0.1
+  sliderFillColor: {r: 0.875, g: 0.75080645, b: 0.70564514, a: 0.5}
